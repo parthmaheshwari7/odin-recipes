@@ -1,0 +1,13 @@
+div{
+    color: navy;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.list, a{
+    text-align: left;
+    font-size: 30px;
+    color: green;
+}
